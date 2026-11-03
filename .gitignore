@@ -1,0 +1,9 @@
+data/*
+!data/README.md
+outputs/
+outputs_*/
+*.log
+*.pt
+*.npy
+__pycache__/
+*.pyc
